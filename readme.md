@@ -63,7 +63,7 @@ Ce projet met en œuvre un pipeline de détection de fraude en temps réel en ut
 2. **InfluxDB** : Stocke les transactions suspectes pour analyse et visualisation.
 3. **Grafana** : Fournit un tableau de bord interactif et en temps réel pour le suivi.
 
-![Schéma de l’architecture](img/gif_archi.svg)
+![Schéma de l’architecture](img/png_archi.png)
 
 ## Instructions pour Lancer le Projet
 1. Cloner le dépôt :
